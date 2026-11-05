@@ -1,0 +1,4 @@
+[
+  {"id": 1, "nome": "Burger King Centro", "prato": "X-Bacon", "preco": 28.90, "categoria": "lanche", "avaliacao": 4.2},
+  {"id": 2, "nome": "Sushi Prime", "prato": "Hot Filadelfia", "preco": 32.00, "categoria": "japonesa", "avaliacao": 4.8}
+]
